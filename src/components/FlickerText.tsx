@@ -27,7 +27,7 @@ export default function FlickerText() {
       <div className="flex gap-6 justify-center items-center text-xs md:text-sm font-mono lowercase tracking-wide text-white/30 flex-wrap">
         <div className="blueprint-line">nov 7-9, 2025</div>
         <div className="w-1 h-1 bg-white/20 rounded-full" />
-        <div className="blueprint-line">mit innovation hq</div>
+        <div className="blueprint-line">tbd</div>
         <div className="w-1 h-1 bg-white/20 rounded-full" />
         <div className="blueprint-line">48 hours</div>
       </div>

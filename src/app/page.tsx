@@ -172,7 +172,7 @@ export default function Home() {
                       location
                     </div>
                     <div className="text-2xl font-bold lowercase">
-                      mit innovation hq
+                      tbd
                     </div>
                     <div className="text-white/60 mt-1 lowercase">
                       cambridge, ma
@@ -200,7 +200,7 @@ export default function Home() {
                 </div>
                 <div className="text-white/70 text-sm space-y-1 lowercase">
                   <div>→ 12 sponsor organizations</div>
-                  <div>→ 7 prize tracks + credits</div>
+                  <div>→ 4 tracks</div>
                   <div>→ unlimited coffee</div>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function Home() {
               </h3>
               <ul className="space-y-2 text-sm text-white/60 font-mono lowercase">
                 <li>november 7-9, 2025</li>
-                <li>mit innovation hq</li>
+                <li>tbd</li>
                 <li>cambridge, ma</li>
               </ul>
             </div>

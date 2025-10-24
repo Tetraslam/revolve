@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "(rev)olve - Boston's Most Cracked Hackathon",
   description:
-    "48 hours of pure creation. November 7-9, 2025 at MIT Innovation HQ. Organized by rev, Boston's premier hacker community.",
+    "48 hours of pure creation. November 7-9, 2025 at TBD. Organized by rev, Boston's premier hacker community.",
 };
 
 export default function RootLayout({
