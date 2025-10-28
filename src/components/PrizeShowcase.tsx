@@ -167,7 +167,7 @@ export default function PrizeShowcase() {
                 </div>
               </div>
 
-              <div className="dither-sm w-20 h-20 flex-shrink-0 border border-white/10 bg-white/5 flex items-center justify-center">
+              <div className="w-20 h-20 flex-shrink-0 border border-white/10 bg-white/5 flex items-center justify-center">
                 <Image
                   src={prize.logo}
                   alt={prize.name}

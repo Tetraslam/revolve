@@ -141,7 +141,7 @@ export default function ScrollablePrizeCarousel() {
                 style={{ transform: `translateY(${translateY}px)` }}
               >
               <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-8 px-4 sm:px-12">
-                <div className="dither w-24 h-24 sm:w-32 sm:h-32 flex-shrink-0 border border-white/20 bg-white/5 flex items-center justify-center p-3 sm:p-4 rounded-lg">
+                <div className="w-24 h-24 sm:w-32 sm:h-32 flex-shrink-0 border border-white/20 bg-white/5 flex items-center justify-center p-3 sm:p-4 rounded-lg">
                   <Image
                     src={prize.logo}
                     alt={prize.name}

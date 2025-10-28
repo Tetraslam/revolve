@@ -307,7 +307,7 @@ export default function Home() {
 
               <div className="space-y-4">
                 <div className="flex items-center gap-4 p-4 bg-white/[0.02] border border-white/5">
-                  <div className=" w-16 h-16 flex-shrink-0 border dither-sm border-white/10 bg-white/5 flex items-center justify-center p-2 rounded">
+                  <div className=" w-16 h-16 flex-shrink-0 border border-white/10 bg-white/5 flex items-center justify-center p-2 rounded">
                     <Image
                       src="/sponsors/modal.avif"
                       alt="modal"
@@ -328,7 +328,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex items-center gap-4 p-4 bg-white/[0.02] border border-white/5">
-                  <div className=" w-16 h-16 dither-sm flex-shrink-0 border border-white/10 bg-white/5 flex items-center justify-center p-2 rounded">
+                  <div className=" w-16 h-16 flex-shrink-0 border border-white/10 bg-white/5 flex items-center justify-center p-2 rounded">
                     <Image
                       src="/sponsors/exa.jpg"
                       alt="exa ai"
@@ -349,7 +349,7 @@ export default function Home() {
                 </div>
 
                 <div className="flex items-center gap-4 p-4 bg-white/[0.02] border border-white/5">
-                  <div className=" w-16 h-16 dither-sm flex-shrink-0 border border-white/10 bg-white/5 flex items-center justify-center p-2 rounded">
+                  <div className=" w-16 h-16 flex-shrink-0 border border-white/10 bg-white/5 flex items-center justify-center p-2 rounded">
                     <Image
                       src="/sponsors/morph.png"
                       alt="morphllm"
@@ -383,7 +383,7 @@ export default function Home() {
 
               <div className="space-y-6">
                 <div className="flex items-center gap-4">
-                  <div className="dither-sm w-16 h-16 flex-shrink-0 border border-white/10 bg-white/5 flex items-center justify-center p-2 rounded">
+                  <div className="w-16 h-16 flex-shrink-0 border border-white/10 bg-white/5 flex items-center justify-center p-2 rounded">
                     <Image
                       src="/sponsors/augmentationlab.jpeg"
                       alt="augmentation lab"

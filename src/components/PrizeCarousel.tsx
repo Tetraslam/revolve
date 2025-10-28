@@ -91,7 +91,7 @@ export default function PrizeCarousel() {
               style={{ transform: `translateY(${translateY}px)` }}
             >
               <div className="flex items-center gap-8 px-12">
-                <div className="dither-sm w-32 h-32 flex-shrink-0 border border-white/20 bg-white/5 flex items-center justify-center p-4 rounded-lg">
+                <div className="w-32 h-32 flex-shrink-0 border border-white/20 bg-white/5 flex items-center justify-center p-4 rounded-lg">
                   <Image
                     src={prize.logo}
                     alt={prize.name}
